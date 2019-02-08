@@ -5,7 +5,7 @@
 # General Settings
 #
 #wp_box: vccw-team/xenial64
-wp_box: riebel/ubuntu
+wp_box: kmm/ubuntu-xenial64
 #
 # Virtual Machine Settings
 #
